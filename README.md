@@ -13,7 +13,7 @@ The Building Elevator System Simulation is designed to manage and simulate the o
 ## Install
 To run the program:
 1. Ensure Java Runtime Environment (JRE) is installed on your system.
-2. Download `BuildingElevatorSystem.jar`.
+2. Download `BuildingElevatorSystem.jar` from release
 3. Open a command prompt or terminal window.
 4. Change to the directory where the jar file is located.
 5. Run the command: `java -jar BuildingElevatorSystem.jar`
