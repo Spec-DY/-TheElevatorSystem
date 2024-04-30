@@ -32,5 +32,5 @@ To run the program:
 - Congestion and optimized routing based on real-time traffic are not considered.
 - Building only distributes requests when elevators on either ground floor or top floor
 
-## Citations
+## Citation
 - image:Flaticon.com
