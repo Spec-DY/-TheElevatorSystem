@@ -1,6 +1,6 @@
 # Building Elevator System Simulation
 
-<img href = "">
+![Screenshot](./screenshot.png)
 ## About/Overview
 The Building Elevator System Simulation is designed to manage and simulate the operations of elevators within a multi-story building. This software aims to provide a realistic representation of how elevators operate in response to user requests, including handling multiple elevators, floors, and dynamic user-generated requests.
 
